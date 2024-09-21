@@ -15,11 +15,12 @@ Safety
 - police arrest
 
 Economy
-- interestest rates
+- interest rates
 - house prices
 - job factor
 - gdp
 - grocery prices
+- living cost
 
 Education
 - literacy rates
@@ -33,9 +34,9 @@ Health
 
 Quality of Life
 - life expectancy
-- residential
+- residential data...
 - homeless rate
-- living cost
+
 
 
 
