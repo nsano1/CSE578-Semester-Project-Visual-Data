@@ -18,6 +18,13 @@ safety, education, economy, health
 - residential
 - population by race
 - homeless rate
+- living cost
+- student loans / tuition cost
+- obesity rates
+- life expectancy
+- insurance cost
+- health care cost
+- grocery prices
 - 
 
 
