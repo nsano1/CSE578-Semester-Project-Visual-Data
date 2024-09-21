@@ -6,26 +6,38 @@ divide by state and by term
 
 Political data per party over the years
 
-safety, education, economy, health
+safety, education, economy, health, development(lifestyle/environment / living condition)
 
+Safety
 - crime rates (types of crimes) and arrest rates
 - school shootings
+- road safety
+- police arrest
+
+Economy
 - interestest rates
 - house prices
-- literacy rates
 - job factor
 - gdp
-- residential
-- population by race
-- homeless rate
-- living cost
+- grocery prices
+
+Education
+- literacy rates
+- high school drop out rates
 - student loans / tuition cost
+
+Health
 - obesity rates
-- life expectancy
 - insurance cost
 - health care cost
-- grocery prices
-- 
+
+Quality of Life
+- life expectancy
+- residential
+- homeless rate
+- living cost
+
+
 
 
 
